@@ -1,0 +1,14 @@
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\bin\Debug\netstandard2.0\xamarin_test.deps.json
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\bin\Debug\netstandard2.0\xamarin_test.dll
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\bin\Debug\netstandard2.0\ref\xamarin_test.dll
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\bin\Debug\netstandard2.0\xamarin_test.pdb
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.csprojAssemblyReference.cache
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.AssemblyInfoInputs.cache
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.AssemblyInfo.cs
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.csproj.CoreCompileInputs.cache
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.dll
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\ref\xamarin_test.dll
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.pdb

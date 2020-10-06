@@ -19,6 +19,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Button Text="새로운 알람 추가함" Clicked="Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>
