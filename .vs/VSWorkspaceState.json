@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\xamarin_test",
+    "\\xamarin_test\\xamarin_test.Android",
+    "\\xamarin_test\\xamarin_test.iOS",
+    "\\xamarin_test\\xamarin_test.UWP",
+    "\\xamarin_test\\xamarin_test.UWP\\bin",
+    "\\xamarin_test\\xamarin_test.UWP\\obj"
+  ],
+  "PreviewInSolutionExplorer": false
+}
