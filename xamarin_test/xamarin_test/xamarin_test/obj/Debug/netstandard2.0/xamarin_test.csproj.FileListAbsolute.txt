@@ -12,3 +12,4 @@ C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamari
 C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.dll
 C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\ref\xamarin_test.dll
 C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\xamarin_test.pdb
+C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test\obj\Debug\netstandard2.0\MainView.xaml.g.cs

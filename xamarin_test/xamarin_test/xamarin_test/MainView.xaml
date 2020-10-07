@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamarin_test.MainView">
+    <<WebView x:Name="browser" NavigationPage.HasNavigationBar="True" Source="http://www.2teamjang.co.kr/Apps" AnchorX="0"  AnchorY="0" VerticalOptions="FillAndExpand"/>
+    <!--<WebView x:Name="browser" NavigationPage.HasNavigationBar="True" Source="http://www.daum.net" AnchorX="0"  AnchorY="0" VerticalOptions="FillAndExpand"/>-->
+</ContentPage>

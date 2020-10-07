@@ -4,22 +4,13 @@
              x:Class="xamarin_test.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="24"/>
         </Frame>
         <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
-        <Button Text="새로운 알람 추가함" Clicked="Button_Clicked"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,10,0"/>
+        <!--<Button Text="네비게이션" Clicked="Button_Clicked"  Padding="30,24,30,20"/>-->
+        <Button Text="다음으로 접속하기" Clicked="Button_Clicked_1"  Padding="30,24,30,20"/>
+        <WebView x:Name="browser" NavigationPage.HasNavigationBar="True" Source="http://www.naver.com" AnchorX="0"  AnchorY="300" VerticalOptions="FillAndExpand" Navigated="browser_Navigated"/>
     </StackLayout>
-
 </ContentPage>
