@@ -9,8 +9,8 @@ namespace xamarin_test
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new MainView();
+            //MainPage = new MainPage();
             //MainPage = new NavigationPage(new MainPage());
         }
 
