@@ -19,6 +19,8 @@ namespace xamarin_test
 
         public MainView()
         {
+            //가비지 컬렉팅 문제인지 한번 로드 된 앱이 뒤로가기로 삭제되면 다음 오픈시 웹페이지가 로딩되지 않음
+            // 메모리 부족 또는 이전 앱의 페이지가 WebView만 종료된 채로 다시 뜨는 문제일수도 있음.
             InitializeComponent();
             //var current = Connectivity.NetworkAccess;
             //DisplayAlert("check", current.ToString(), "확인");
