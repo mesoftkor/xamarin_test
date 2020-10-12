@@ -465,10 +465,3 @@ C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamari
 C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\res\drawable\splash.png
 C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\src\crc6470bd76d7d28bd9a7\SplashActivity.java
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\assets\Plugin.Connectivity.Abstractions.dll
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\assets\Plugin.Connectivity.Abstractions.pdb
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\assets\Plugin.Connectivity.dll
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\assets\Plugin.Connectivity.dll.mdb
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\assets\System.Threading.dll
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
-C:\Users\G5\Documents\Projects\git_xamarin_test\xamarin_test\xamarin_test\xamarin_test.Android\obj\Debug\90\android\src\crc64cea48322b3427ae9\ConnectivityChangeBroadcastReceiver.java

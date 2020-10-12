@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Xamarin.Essentials;
-using Plugin.Connectivity;
+//using Plugin.Connectivity;
 
 
 namespace xamarin_test
@@ -36,6 +36,41 @@ namespace xamarin_test
             //    DisplayAlert("연결된 상태로 체크됨", CrossConnectivity.Current.IsConnected.ToString(), "확인");
 
             //}
+        }
+
+        //private async void browser_Navigated(object sender, WebNavigatedEventArgs e)
+        //private void browser_Navigated(object sender, WebNavigatedEventArgs e)
+        //{
+        //    //e에서 가져오기
+        //    WebViewSource wHtml = e.Source;
+        //    System.Console.WriteLine(wHtml.GetType().ToString());
+
+        //    //Task<string> 비동기반환형식을 string 으로 처리
+        //    //Task<string> datatask = browser.EvaluateJavaScriptAsync("document.body.innerHTML");
+        //    ////string strContent = await datatask;
+        //    //string strContent = datatask;
+        //    //if (strContent.Contains("Webpage not available"))
+        //    //{
+        //    //    //MainThread.BeginInvokeOnMainThread(() =>
+        //    //    //{
+        //    //        DisplayAlert("서버 접속 불가", "인터넷에 연결할 수 없습니다. 연결 상태를 확인해 주세요.", "재시도");
+        //    //        browser.Reload();
+
+        //    //   // });
+        //    //}
+        //    ////System.Console.WriteLine(strContent);
+        //    ////DisplayAlert("웹내용", strContent, "확인");
+        //}
+       
+        private async void browser_Navigated(object sender, WebNavigatedEventArgs e)
+        {
+            Task<string> datatask = browser.EvaluateJavaScriptAsync("document.body.innerHTML");
+            string strContent = await datatask;
+            if (strContent.Contains("Webpage not available"))
+            {
+                 await DisplayAlert("서버 접속 불가", "인터넷에 연결할 수 없습니다. 연결 상태를 확인해 주세요.", "재시도");
+                browser.Reload();
+           }
         }
     }
 }
