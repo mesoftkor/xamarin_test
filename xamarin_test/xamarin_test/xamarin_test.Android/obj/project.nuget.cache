@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jo4oEwa+BrrH1WAcNXfugqursBx8Xr3bdpTcwFcRdw3a73PgV8YGORI9d2KItVoYE7M42LIP6W7yv+xpdAtj4w==",
+  "dgSpecHash": "rK4bfBF/uTJk1eFhK0Bqcm0UTtvDNhrQqCA3j0DQX/Vp56Rr3QY2PK5zqfv8atsVR/FTzr3oP36bq57wgdbxYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\G5\\Documents\\Projects\\git_xamarin_test\\xamarin_test\\xamarin_test\\xamarin_test.Android\\xamarin_test.Android.csproj",
   "expectedPackageFiles": [
@@ -41,8 +41,19 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.build.download\\0.7.0\\xamarin.build.download.0.7.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.firebase.common\\71.1610.4\\xamarin.firebase.common.71.1610.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.firebase.iid\\71.1710.4\\xamarin.firebase.iid.71.1710.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.firebase.iid.interop\\71.1601.4\\xamarin.firebase.iid.interop.71.1601.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.firebase.measurement.connector\\71.1701.4\\xamarin.firebase.measurement.connector.71.1701.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.firebase.messaging\\71.1740.4\\xamarin.firebase.messaging.71.1740.4.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.google.autovalue.annotations\\1.6.5\\xamarin.google.autovalue.annotations.1.6.5.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.googleplayservices.base\\71.1610.4\\xamarin.googleplayservices.base.71.1610.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.googleplayservices.basement\\71.1620.4\\xamarin.googleplayservices.basement.71.1620.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.googleplayservices.stats\\71.1601.4\\xamarin.googleplayservices.stats.71.1601.4.nupkg.sha512",
+    "C:\\Users\\G5\\.nuget\\packages\\xamarin.googleplayservices.tasks\\71.1601.4\\xamarin.googleplayservices.tasks.71.1601.4.nupkg.sha512"
   ],
   "logs": []
 }

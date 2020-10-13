@@ -66,10 +66,10 @@ namespace xamarin_test
         {
             Task<string> datatask = browser.EvaluateJavaScriptAsync("document.body.innerHTML");
             string strContent = await datatask;
-            if (strContent.Contains("Webpage not available"))
+            if (strContent==null || strContent.Contains("Webpage not available"))
             {
                  await DisplayAlert("서버 접속 불가", "인터넷에 연결할 수 없습니다. 연결 상태를 확인해 주세요.", "재시도");
-                browser.Reload();
+                 browser.Reload();
            }
         }
     }
